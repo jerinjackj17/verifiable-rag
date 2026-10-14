@@ -5,7 +5,7 @@ worse than no answer. Most RAG demos take the top chunk and answer confidently
 no matter what. This one critiques its own hits, rewrites weak queries, and
 abstains when the grounding is thin.
 
-Live demo: _(deploying)_
+Live demo: https://verifiable-rag-rho.vercel.app
 
 ## The side-by-side
 
